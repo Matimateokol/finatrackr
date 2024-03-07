@@ -7,6 +7,7 @@ Personal financies tracking MERN stack app. Boost your savings and control expen
 * Classification and grouping of purchased products/services into various related categories (food, cleaning products, clothes, others).
 * Analysing and visualizing aggregated user expenditures data as charts and plots in dashboard view.
 * Comparing past year/month/week costs with present expenditures.
+* Responsive UI design for mobile and desktop devices.
 * More coming soon...
 
 ## Architecture
