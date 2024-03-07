@@ -1,5 +1,5 @@
 # finatrackr
-Personal financies tracking MERN stack app. Boost your savings and control expenditures in simple and comfortable way.
+Personal financies tracking MERN stack app. Boost your saving powers and control expenditures in simple and comfortable way.
 
 ## Features
 * Scanning receipts with device's camera.
