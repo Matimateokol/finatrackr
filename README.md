@@ -6,7 +6,7 @@ Personal financies tracking MERN stack app. Boost your saving powers and control
 ## Features
 * Scanning receipts with device's camera.
 * Saving data about purchases (product/service name, amount, cost) into database.
-* Classification and grouping of purchased products/services into various related categories (food, cleaning products, clothes, others).
+* Semi-auto classification and grouping of purchased products/services into various related categories (food, cleaning products, clothes, others).
 * Analysing and visualizing aggregated user expenditures data as charts and plots in dashboard view.
 * Comparing past year/month/week costs with present expenditures.
 * Responsive UI design for mobile and desktop devices.
