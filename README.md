@@ -1,6 +1,8 @@
 # finatrackr
 Personal financies tracking MERN stack app. Boost your saving powers and control expenditures in simple and comfortable way.
 
+![A-happy-person-following-the-track-upwards-the-huge-mountain-with-heap-of-gold-ingots-and-picking-up-coins-on-the-ground-and-leaving-receipts-behind-](https://github.com/Matimateokol/finatrackr/assets/58779750/f8ed1d3f-0058-4f40-b98f-9d1914fb53c0)
+
 ## Features
 * Scanning receipts with device's camera.
 * Saving data about purchases (product/service name, amount, cost) into database.
